@@ -1,0 +1,6 @@
+{
+  "name": "منصة موجة البيان - Mawjat Al-Bayan",
+  "description": "منصة تفاعلية متخصصة في الدعم الفني والمقارنة البرمجية لنماذج الذكاء الاصطناعي Google Gemini و DeepSeek",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
